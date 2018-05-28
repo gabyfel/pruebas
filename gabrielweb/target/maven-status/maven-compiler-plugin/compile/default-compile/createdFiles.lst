@@ -1,0 +1,6 @@
+com\mycompany\dao\AlumnosDaoImpl.class
+com\mycompany\util\HibernateUtil.class
+com\mycompany\controller\Alumno.class
+com\mycompany\service\AlumnoService.class
+com\mycompany\service\AlumnoServiceImpl.class
+com\mycompany\dao\AlumnosDao.class
